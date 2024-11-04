@@ -1,3 +1,14 @@
-
+# env variables & info
 .env
 code/.work-folder-info
+
+# downloaded weights/models
+code/yolov8s.pt
+code/yolo11n.pt
+
+# dataset
+/code/Nematode*
+/code/Notebooks No Tiling/Nematode*
+/code/Notebooks Tiling/Nematode*
+# predictions
+/code/runs/detect/predict*
