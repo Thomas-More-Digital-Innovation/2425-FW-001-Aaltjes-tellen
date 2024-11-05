@@ -12,3 +12,8 @@ code/yolo11n.pt
 /code/Notebooks Tiling/Nematode*
 # predictions
 /code/runs/detect/predict*
+/dataset_v7
+/original_dataset
+/valid
+/code/original_dataset
+/code/SAHI/runs
